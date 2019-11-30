@@ -1,6 +1,6 @@
 {
   "posts": {
-    "title": "this is a title",
-    "body": "this is the body"
+    "title": "My Headline",
+    "body": "This is a test server to learn how to pull information from an online database using GitHub."
   }
 }
